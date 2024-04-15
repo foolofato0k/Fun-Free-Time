@@ -1,0 +1,21 @@
+# Hashes of file build rules.
+251e04dd3f1aa3005e15ab4a1bf5e426 /home/william/git/glfwsrc/CMakeFiles/uninstall
+6c539c951eec099080ad9385d64d6fa7 /home/william/git/glfwsrc/src/CMakeFiles/update_mappings
+73ba0d210e7c0fc346e39aa05db8908f /home/william/git/glfwsrc/src/fractional-scale-v1-client-protocol-code.h
+17f7940e03f749f4fd01f1b55baab86d /home/william/git/glfwsrc/src/fractional-scale-v1-client-protocol.h
+ab8fb6ba05c9a7162b63c6e20219701c /home/william/git/glfwsrc/src/idle-inhibit-unstable-v1-client-protocol-code.h
+64b95e3e6d2fa2c54552e113b4a10189 /home/william/git/glfwsrc/src/idle-inhibit-unstable-v1-client-protocol.h
+5a1df769d029943ae97e0971cc9bab6d /home/william/git/glfwsrc/src/pointer-constraints-unstable-v1-client-protocol-code.h
+f7593d4d934219a97ce895e1e5ffbfdb /home/william/git/glfwsrc/src/pointer-constraints-unstable-v1-client-protocol.h
+bcf391eea4f8bc5d6545ff682480701e /home/william/git/glfwsrc/src/relative-pointer-unstable-v1-client-protocol-code.h
+35571baeadb61285de465b29cc59d1a9 /home/william/git/glfwsrc/src/relative-pointer-unstable-v1-client-protocol.h
+cd5f39be638e10bc4506c97015d86669 /home/william/git/glfwsrc/src/viewporter-client-protocol-code.h
+9da15f33644d2658114df6b776550bae /home/william/git/glfwsrc/src/viewporter-client-protocol.h
+927715274c844e6ecbbecb6d75411f3f /home/william/git/glfwsrc/src/wayland-client-protocol-code.h
+6c18dac1e086072377ab1da3314e928b /home/william/git/glfwsrc/src/wayland-client-protocol.h
+aac4da4ebb351d33dd4ce07b141f4698 /home/william/git/glfwsrc/src/xdg-activation-v1-client-protocol-code.h
+93810183cab88db5f223018bf7802933 /home/william/git/glfwsrc/src/xdg-activation-v1-client-protocol.h
+e42dbd71a0beae7aef6a6efc5aaabc9c /home/william/git/glfwsrc/src/xdg-decoration-unstable-v1-client-protocol-code.h
+5f17f1a3adbd38cbe4f0e9c5cf1d2432 /home/william/git/glfwsrc/src/xdg-decoration-unstable-v1-client-protocol.h
+3774e6dfacd5a373d566a74930c53b77 /home/william/git/glfwsrc/src/xdg-shell-client-protocol-code.h
+009c25f49d7c94ce4f652c010a689cd2 /home/william/git/glfwsrc/src/xdg-shell-client-protocol.h

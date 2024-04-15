@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/william/git/Fun-Free-Time/2D/build",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/hello_world.dir/hello.cpp.o -c /home/william/git/Fun-Free-Time/2D/hello.cpp",
+  "file": "/home/william/git/Fun-Free-Time/2D/hello.cpp"
+}
+]

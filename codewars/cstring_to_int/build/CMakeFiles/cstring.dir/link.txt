@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/cstring.dir/cstring.cpp.o -o cstring 

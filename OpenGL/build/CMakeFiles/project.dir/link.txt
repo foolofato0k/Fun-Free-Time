@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/project.dir/main.cpp.o -o project   -L/home/william/git/glfw/src  -Wl,-rpath,/home/william/git/glfw/src /home/william/git/glfwsrc/src/libglfw3.a /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 

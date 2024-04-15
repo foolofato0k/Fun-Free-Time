@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/william/git/Fun-Free-Time/codewars/cstring_to_int/build",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/cstring.dir/cstring.cpp.o -c /home/william/git/Fun-Free-Time/codewars/cstring_to_int/cstring.cpp",
+  "file": "/home/william/git/Fun-Free-Time/codewars/cstring_to_int/cstring.cpp"
+},
+{
+  "directory": "/home/william/git/Fun-Free-Time/codewars/cstring_to_int/build",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/testing.dir/testing123.cpp.o -c /home/william/git/Fun-Free-Time/codewars/cstring_to_int/testing123.cpp",
+  "file": "/home/william/git/Fun-Free-Time/codewars/cstring_to_int/testing123.cpp"
+},
+{
+  "directory": "/home/william/git/Fun-Free-Time/codewars/cstring_to_int/build",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/splittingstrings.dir/splittingstrings.cpp.o -c /home/william/git/Fun-Free-Time/codewars/cstring_to_int/splittingstrings.cpp",
+  "file": "/home/william/git/Fun-Free-Time/codewars/cstring_to_int/splittingstrings.cpp"
+},
+{
+  "directory": "/home/william/git/Fun-Free-Time/codewars/cstring_to_int/build",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/narcissistic.dir/narcissist.cpp.o -c /home/william/git/Fun-Free-Time/codewars/cstring_to_int/narcissist.cpp",
+  "file": "/home/william/git/Fun-Free-Time/codewars/cstring_to_int/narcissist.cpp"
+}
+]

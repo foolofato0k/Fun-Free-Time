@@ -1,0 +1,6 @@
+/home/william/git/Fun-Free-Time/codewars/cstring_to_int/build/CMakeFiles/cstring.dir
+/home/william/git/Fun-Free-Time/codewars/cstring_to_int/build/CMakeFiles/testing.dir
+/home/william/git/Fun-Free-Time/codewars/cstring_to_int/build/CMakeFiles/splittingstrings.dir
+/home/william/git/Fun-Free-Time/codewars/cstring_to_int/build/CMakeFiles/narcissistic.dir
+/home/william/git/Fun-Free-Time/codewars/cstring_to_int/build/CMakeFiles/edit_cache.dir
+/home/william/git/Fun-Free-Time/codewars/cstring_to_int/build/CMakeFiles/rebuild_cache.dir
